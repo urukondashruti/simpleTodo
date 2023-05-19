@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.back {
+  background-color: #ffc2a0;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.con {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  padding-right: 40px;
+  border-radius: 20px;
+}
+
+.head {
+  color: #ff8542;
+}

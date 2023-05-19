@@ -1,0 +1,17 @@
+.con2 {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.size {
+  height: 40px;
+  width: 100px;
+  background-color: white;
+  color: #ff0b37;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #ff0b37;
+  border-radius: 10px;
+}
